@@ -1,4 +1,4 @@
-Date: 26 August 2014 06:53:21
+<!-- Date: 26 August 2014 06:53:21 -->
 
 # Blender Dvorak Laptop Key Configuration
 
