@@ -4,7 +4,7 @@
 
 *Please note this key configuration is a work in progress, there may still be key conflicts, or shortcuts assign to non-present keys.*
 
-*To contribute changes see the ['Contributing'](#contributing) section.*
+*To contribute changes see the '[Contributing](#contributing)' section.*
 
 This custom Blender 2.70 key configuration for MacBooks is based on the 'Blender (default)' key configuration. Shortcuts have been replaced to their 'Blender (default)' positions on the keyboard, with some alterations given the following restrictions and preferences:
 
