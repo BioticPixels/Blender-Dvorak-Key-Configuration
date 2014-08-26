@@ -19,8 +19,10 @@ This custom Blender 2.70 key configuration for MacBooks is based on the 'Blender
 - No 'home' key.
 	- Replaced with the backslash (`\`) key.
 - No 'end' key.
-	- Replaced with the hyphen (`-`) key.</br>
+	- Replaced with the hyphen (`-`) key.
+
 </br></br>
+
 - Copy (`command+c`), cut (`command+x`), paste (`command+v`), save (`command+s`), undo (`command+z`), quit (`command+q`), hide (`command+h`), and minimize (`command+m`) shortcuts are in the same place as other applications for MacBook Dvorak keyboard layout users.
 - To remove key conflicts, the command (`cmd`) key is used for the above shortcuts, and control (`ctrl`) is used for everything else.
 
