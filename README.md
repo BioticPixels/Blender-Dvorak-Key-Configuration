@@ -2,7 +2,7 @@
 
 # Blender Dvorak Laptop Key Configuration
 
-*Please note this key configuration is a work in progress, there may still be key conflicts, or shortcuts assign to non-present keys.*
+*Please note this key configuration is a work in progress, there may still be key conflicts, or shortcuts assigned to non-present keys.*
 
 *To contribute changes see the '[Contributing](#contributing)' section.*
 
