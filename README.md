@@ -20,7 +20,7 @@ This custom Blender 2.70 key configuration for MacBooks is based on the 'Blender
 - No numpad keys.
 	- Numpad number key have been replaced with main number row keys with modifiers.
 	- `numpad .` has been replaced with `shift+v`.
-- No 'page up' or 'page down' keys
+- No 'page up' or 'page down' keys.
 	- @TODO Assign replacement.
 - No 'home' key.
 	- Replaced with the backslash (`\`) key.
