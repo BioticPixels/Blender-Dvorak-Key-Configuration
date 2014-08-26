@@ -9,6 +9,8 @@
 - [Importing](#importing)
 - [Contributing](#contributing)
 
+---
+
 This custom Blender 2.70 key configuration for MacBooks is based on the 'Blender (default)' key configuration. Shortcuts have been replaced to their 'Blender (default)' positions on the keyboard, with some alterations given the following restrictions and preferences:
 
 - No 'delete' key.
