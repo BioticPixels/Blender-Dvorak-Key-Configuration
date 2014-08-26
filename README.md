@@ -32,7 +32,7 @@ This custom Blender 2.70 key configuration for MacBooks is based on the 'Blender
 
 ## Importing
 
-Download the file by clicking 'Download ZIP' on Github. Once downloaded, unzip the file. In Blender, open the 'Input' tab in user preferences, and select 'Import Key Configuration' and choose the downloaded 'dvorak-laptop.blend.py' file.
+Download the file by clicking 'Download ZIP' on Github. Once downloaded, unzip the file. In Blender, open the 'Input' tab in user preferences, and select 'Import Key Configuration' and choose the downloaded 'Dvorak-Laptop.blend.py' file.
 
 ## Contributing
 
