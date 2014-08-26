@@ -36,4 +36,4 @@ Download the file by clicking 'Download ZIP' on Github. Once downloaded, unzip t
 
 ## Contributing
 
-Edits to the file can be made in Blender. To contribute changes, select 'Export Key Configuration' and commit.
+Edits to the file can be made in Blender from the 'Input' tab in user preferences. To contribute changes, select 'Export Key Configuration' and commit.
