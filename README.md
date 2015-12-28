@@ -1,6 +1,6 @@
 <!-- Date: 26 August 2014 06:53:21 -->
 
-![Biotic Pixels trademark.](images/20 December 2015 20-39-08 small.png)
+![Biotic Pixels trademark.](http://bioticpixels.com/images/20 December 2015 20-39-08 small.png)
 
 # Biotic Pixels
 
