@@ -1,6 +1,12 @@
 <!-- Date: 26 August 2014 06:53:21 -->
 
-# Blender Dvorak Laptop Key Configuration
+![Biotic Pixels trademark.](images/20 December 2015 20-39-08 small.png)
+
+# Biotic Pixels
+
+[Website](http://bioticpixels.com "bioticpixels.com") | [Articles](http://bioticpixels.com/articles "bioticpixels.com/articles") | [Email](mailto:bioticpixel@gmail.com "bioticpixel@gmail.com") | [Github](http://github.com/BioticPixels "github.com/BioticPixels") | [Supporting](http://bioticpixels.com/supporting "bioticpixels.com/supporting") | [About](http://bioticpixels.com/articles/about "bioticpixels.com/articles/about")
+
+## Blender Dvorak Laptop Key Configuration
 
 *Please note this key configuration is a work in progress, there may still be key conflicts, or shortcuts assigned to non-present keys.*
 
@@ -32,10 +38,10 @@ This custom Blender 2.70 key configuration for MacBooks is based on the 'Blender
 - Copy (`command+c`), cut (`command+x`), paste (`command+v`), save (`command+s`), undo (`command+z`), quit (`command+q`), hide (`command+h`), and minimize (`command+m`) shortcuts are in the same place as other applications for MacBook Dvorak keyboard layout users.
 - To remove key conflicts, the command (`cmd`) key is used for the above shortcuts, and control (`ctrl`) is used for everything else.
 
-## Importing
+### Importing
 
 Download the file by clicking 'Download ZIP' on Github. Once downloaded, unzip the file. In Blender, open the 'Input' tab in user preferences, and select 'Import Key Configuration' and choose the downloaded 'Dvorak-Laptop.blend.py' file.
 
-## Contributing
+### Contributing
 
 Edits to the file can be made in Blender from the 'Input' tab in user preferences. To contribute changes, select 'Export Key Configuration' and commit.
